@@ -27,3 +27,8 @@
 *.exe
 *.out
 *.app
+
+# clion dirs
+.idea
+cmake-build-debug
+
